@@ -1,0 +1,19 @@
+name: safittech_rich_editor
+description: A customizable Flutter rich text editor with bold, italic, underline, font size, text colors, and HTML export.
+version: 0.1.0
+repository: https://github.com/SunidhiBhatia/safittech_rich_editor
+
+environment:
+  sdk: ^3.13.4
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
