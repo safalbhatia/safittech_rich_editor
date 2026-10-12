@@ -2,7 +2,7 @@
 name: safittech_rich_editor_example
 description: A customizable Flutter rich text editor with text formatting, font size, colors, and HTML export.
 version: 0.1.0
-repository: https://github.com/SunidhiBhatia/safittech_rich_editor
+repository: https://github.com/safalbhatia/safittech_rich_editor.git
 publish_to: none
 
 environment:
